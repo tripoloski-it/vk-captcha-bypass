@@ -44,3 +44,7 @@ try {
 → [**Отправить Pull Request**](https://github.com/tripoloski-it/vk-captcha-bypass/pulls) — для доработок и фич.
 
 Ваш вклад ускорит поддержку новых типов капчи и улучшит стабильность.
+
+---
+
+### Telegram: https://t.me/tripoloski_dev

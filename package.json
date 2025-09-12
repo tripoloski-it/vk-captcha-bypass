@@ -1,0 +1,25 @@
+{
+  "name": "vk-captcha-bypass",
+  "version": "0.0.3",
+  "description": "Обход VK Captcha",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "npm run build",
+    "prebuild": "rimraf ./dist",
+    "build": "tsc"
+  },
+  "keywords": [
+    "vk",
+    "captcha",
+    "bypass",
+    "vk-captcha-bypass",
+    "vk-captcha"
+  ],
+  "author": "Tripoloski (https://t.me/tripoloski_dev)",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "typescript": "^5.9.2"
+  }
+}
